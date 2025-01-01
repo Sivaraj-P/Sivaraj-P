@@ -6,7 +6,7 @@
 <div>
 <p align="left">-🔭 I’m currently working on Django Project<br>- 🌱 I’m currently learning Angular<br>- 🤔 I’m looking for help with AWS Deployment<br>- 💬 Ask me about Web Development<br>- 📫 How to reach me: sivarajpauldurai@gmail.com<br>- ⚡ Fun fact: BatMan</p>
 </div>
-<img src="hello.gif" alt="Hello" width="150" height="150">
+<img src="hello.gif" alt="Hello" width="50" height="50">
 </div>
 
 ###
